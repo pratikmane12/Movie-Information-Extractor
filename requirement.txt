@@ -11,3 +11,4 @@ uvicorn
 requests
 python-dotenv
 langchain_huggingface
+streamlit
